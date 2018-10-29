@@ -45,8 +45,8 @@ module.exports = {
         }
       },
       '/api': {
-        target: 'http://brentertainment.com/oauth2',  // <-- Api server.
-        //target: 'http://localhost:8081/experience',
+        // target: 'http://brentertainment.com/oauth2',  // <-- Api server.
+        target: 'http://localhost:8081/experience',
         changeOrigin: true,                           // <-- For virtual hosted sites.
         ws: true,                                     // <-- Proxy websockets.
         pathRewrite: {
