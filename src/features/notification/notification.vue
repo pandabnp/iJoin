@@ -5,7 +5,7 @@
       :value="true"
       type="info"
     >
-      Thanks for applying to Travelers! As a first step in the process we would like you to go through our pre-assessment process. Request you to please click on the<a> link </a> to start assessment
+      Thanks for applying to IBM! As a first step in the process we would like you to go through our pre-assessment process. Request you to please click on the<a> link </a> to start assessment
     </v-alert>
 
     

@@ -34,11 +34,11 @@
 
     v-divider
     v-list(dark)
-      v-list-tile(ripple :to="{ name: 'About Travelers' }")
+      v-list-tile(ripple :to="{ name: 'About IBM' }")
         v-list-tile-action
           v-icon library_books
         v-list-tile-content
-          v-list-tile-title About Travelers
+          v-list-tile-title About IBM
 
       v-list-tile(ripple :to="{ name: 'notification' }")
         v-list-tile-action

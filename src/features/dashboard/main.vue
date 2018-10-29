@@ -13,13 +13,13 @@ v-container.my-dashboard(
       v-card
        <br>
           <div>
-            <h3 class="text-sm-left">Hi Joanna - Welcome to Travelers!</h3>
+            <h3 class="text-sm-left">Hi Joanna - Welcome to IBM!</h3>
             <div class="text-sm-left">Thank you for applying to a position with us. It’s exciting times out here. Our vision is to continue to focus on being at the forefront of the industry in terms of selling customer centric products, using latest technologies, evolving our collaborative workspace and continue to invest in our key strength – which is our people.        </div>
           </div>
           <br>
            <div>
             <h3 class="text-sm-left">What you need to know about the role?</h3>
-            <div class="text-sm-left">We are looking to hire a senior engineer to join our Digital Transformation team here in Claims. Ideally we would want the person to join one of our feature teams which is focused on building business capabilities for MyTravelers. The person should be a hands on full stack developer while at the same time able to provide technical guidance to the other engineers on the team and represent the team in various technical and product related forums with Claims.</div>
+            <div class="text-sm-left">We are looking to hire a senior engineer to join our Digital Transformation team here in Claims. Ideally we would want the person to join one of our feature teams which is focused on building business capabilities for IBM. The person should be a hands on full stack developer while at the same time able to provide technical guidance to the other engineers on the team and represent the team in various technical and product related forums with Claims.</div>
           </div>
           <br>
            <div>
